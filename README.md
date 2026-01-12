@@ -1,7 +1,5 @@
 # AI-Assisted Grounded Theory Analysis: Legacy Code
 
-**Important Note:** This is the old version of the code for this project. The latest version of the code will be released together with the relevant research paper at the following URL after all debugging is complete and the paper is submitted: https://github.com/mingfenghong/llm_assisted_grounded_theory
-
 ## Project Overview
 
 This project aims to use Large Language Models (LLMs) to assist with Grounded Theory analysis. The entire workflow uses "Open Source Cases" as the subject of study. Through several automated stages, it extracts causal relationships from the original case texts and progressively builds a theoretical model. The project's code is clearly divided into five core stages, from data extraction to the theory saturation test.
@@ -90,9 +88,7 @@ Zhou, Y., Yuan, Y., Huang, K., & Hu, X. (2024). Can ChatGPT perform a grounded t
 -----
 
 
-# AI 辅助扎根理论分析：旧版代码
-
-**重要提示：** 这是本项目的旧版代码。最新版本的代码将在全部调试完成与论文提交后随相关研究论文一同发布在以下网址：https://github.com/mingfenghong/llm_assisted_grounded_theory
+# AI 辅助扎根理论分析 初版
 
 ## 项目概述
 
@@ -181,4 +177,5 @@ Zhou, Y., Yuan, Y., Huang, K., & Hu, X. (2024). Can ChatGPT perform a grounded t
 * openai
 
 ---
+
 
